@@ -1,0 +1,21 @@
+site_name: జయాంజనేయ
+
+nav:
+    - Home: index.md
+    - audio : ./audio.md
+    - about : ./about.md
+    - pictures : ./pictures.md
+    - program : ./program.md
+    - శ్రీపాదుక : ./sripaduka.md
+    - మీరాకళాజ్యోత్స్న : ./ramalingaswamy.md
+    - బాల చైతన్యం : ./balachaitanyam.md
+
+
+theme: material
+
+use_directory_urls: true
+
+extra_css:
+    - ./css/style.css
+markdown_extensions:
+    - mdx_custom_span_class
