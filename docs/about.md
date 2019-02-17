@@ -28,7 +28,7 @@ to bed we have to dedicate our effort to the lotus feet of hanuman saying **“�
 Every devotee who
 wish to participate in this “JAPAYAJNA” in person has to enroll himself by sending his
 consent and he must send his/her japa count on the first Sunday of every month without
-fail as “COUNT OF PREVIOUS MONTH/ CUMILATIVE TOTAL AS ON DATE TO THE ADDRESS HEREUNDER AS FOLLOWS EITHER BY POST OR PHONE-MESSAGE / WHATS APP MESSAGE OR TO THE EMAIL"
+fail as "count of previous month/ cumilative total as on date to the address hereunder as follows either by post or phone-message / whats app message or to the email"
 
 ## How to inform
 
@@ -42,10 +42,11 @@ ASSI VARANASI-221005 (UP) INDIA.
 Phone: <a href="tel:+915460314165">+915460314165</a>, <a href="tel:+918318807932">+918318807932</a>  
 Email: <a href="mailto:avatarasarma@gmail.com">avatarasarma@gmail.com</a>
 
-THE FUNCTION WILL BE CELEBRATED THIS YEAR FROM 19TH MARCH 2019 TO 22ND MARCH 2019 FOR
-FOUR DAYS AND DETAILED PROGRAM WILL BE ANNOUNCED IN THE 1ST WEEK OF JANUARY.
-LIMITED ACCOMODATION MAY BE PROVIDED ON PAYMENT . BEAK-FAST COFFEE TEA AND MEALS
+THE FUNCTION WILL BE CELEBRATED THIS YEAR FROM 17TH MARCH 2019 TO 22ND MARCH 2019 FOR
+FOUR DAYS AND DETAILED PROGRAM IS [HERE](./program.md).
+LIMITED ACCOMODATION MAY BE PROVIDED ON PAYMENT. BEAK-FAST COFFEE TEA AND MEALS
 ARE PROVIDED FREE.
 THE PROFORMA OF JAPAYAJNAM IS ATTACHED HEREWITH.
+
 WITH LOVE AND AFFECTION
 SRIPADUKA -KAASHI VAASI
