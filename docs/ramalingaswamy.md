@@ -5,7 +5,7 @@
 
 
 
-## Sangeetha Navavadhanam, interoduction by Dr.Meegada Ramalinga Swamy
+## Sangeetha Navavadhanam, introduction by Dr.Meegada Ramalinga Swamy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uPI-nY8Hwas" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
