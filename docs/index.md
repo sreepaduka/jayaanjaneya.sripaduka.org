@@ -1,5 +1,6 @@
 # జయాంజనేయ జపయజ్ఞము
 
+Register [here](https://goo.gl/forms/UV7UYykCeJ0mYR462)
 
 ![image-1](./images/hanuman-invitation-telugu-1.png)
 ![image-2](./images/hanuman-invitation-telugu-2.png)
