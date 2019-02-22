@@ -18,5 +18,6 @@ use_directory_urls: true
 
 extra_css:
     - ./css/style.css
-#markdown_extensions:
-#    - mdx_custom_span_class
+markdown_extensions:
+    - mdx_custom_span_class
+    - markdown_include.include
