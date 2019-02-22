@@ -34,3 +34,11 @@
 	border: 1px solid #e8e8e8;
 	margin-bottom: 20px;
 }
+.keyword {
+	font-weight: bold;
+	color: orangered;
+}
+.sloka {
+	font-size: 200%;
+	padding: 10px;
+}
